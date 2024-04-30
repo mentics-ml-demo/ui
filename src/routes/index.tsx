@@ -13,7 +13,7 @@ export default function Home() {
         it will automatically deploy the new model for inference.
       </p>
       <p>
-        It's under active daily development. You can review the <a href="https://github.com/mentics-online-ml/polyrepo">source code on github</a>.
+        It doesn't do all the above quite yet, but it's under active daily development. You can review the <a href="https://github.com/mentics-online-ml/polyrepo">source code on github</a>.
       </p>
     </main>
   );
